@@ -1,13 +1,3 @@
-/11-00_Communicating-with-the-Miniserver-2.pdf
-/1100_Structure-File.pdf
-/config.go
-/configuration.yaml
-/entity.go
-/halox.exe
-/halox.log
-/hass
-/main.go
-/mqtt.go
-/python
-/server.go
-/__pycache__
+halox.exe
+halox.log
+halox
